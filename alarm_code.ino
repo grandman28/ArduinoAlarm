@@ -7,7 +7,6 @@
 #define IR_RECEIVER_PIN 2
 #define SS_PIN 10
 #define RST_PIN 9
-
 #define RED_LED 6
 #define GREEN_LED 4
 #define YELLOW_LED 3 
